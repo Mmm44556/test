@@ -1,6 +1,10 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 @@@@@@@@@@@@@@@@@@@
 1321231231646545646546544444
+=======
+@@@@@@@@@@@@@@@@@@@ZZZZ
+>>>>>>> Stashed changes
 =======
 @@@@@@@@@@@@@@@@@@@ZZZZ
 >>>>>>> Stashed changes
