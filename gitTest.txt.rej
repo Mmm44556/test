@@ -1,0 +1,8 @@
+diff a/gitTest.txt b/gitTest.txt	(rejected hunks)
+@@ -6,5 +6,6 @@
+ +=======
+ +@@@@@@@@@@@@@@@@@@@ZZZZ
+ +>>>>>>> Stashed changes
+++=======
+ +@@@@@@@@@@@@@@@@@@@ZZZZ
+ +>>>>>>> Stashed changes
